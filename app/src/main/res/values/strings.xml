@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KeyenceBarcodeScanner</string>
+
+    <string name="hint">Tap scan button to read barcode</string>
+    <string name="scan">Scan</string>
+</resources>
